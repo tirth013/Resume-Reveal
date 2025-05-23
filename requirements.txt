@@ -1,0 +1,13 @@
+pypdf2
+python-docx
+langchain
+langchain-groq
+pydantic
+python-dotenv
+pillow
+flask
+werkzeug
+
+# Development dependencies
+pytest
+black
